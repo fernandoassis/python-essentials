@@ -1,2 +1,2 @@
 # python-essentials
-Repositório criado para praticar aulas do cruro Python Essentials, da Linuxtips.
+Repositório criado para praticar aulas do curso Python Essentials, da Linuxtips.
